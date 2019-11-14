@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Exercice 2</string>
+    <string name="second_number_placeholder">Deuxième nombre</string>
+    <string name="first_number_placeholder">Premier nombre</string>
+    <string name="add_button_label">+</string>
+    <string name="substract_button_label">-</string>
+    <string name="multiply_button_label">x</string>
+    <string name="divide_button_label">/</string>
+    <string name="result_label">Résultat :</string>
+    <string name="error_division_by_zero">Impossible de diviser par zéro</string>
+</resources>
