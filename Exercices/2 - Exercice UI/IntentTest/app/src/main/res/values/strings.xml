@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">IntentTest</string>
+    <string name="second_activity_text">Voici la deuxième activité</string>
+    <string name="button_next_label">Suivant</string>
+    <string name="third_activity_text">Ceci est la troisième activité</string>
+    <string name="message_ok">Vous avez cliqué sur OK</string>
+    <string name="message_cancel">Vous avez cliqué sur annuler</string>
+</resources>
