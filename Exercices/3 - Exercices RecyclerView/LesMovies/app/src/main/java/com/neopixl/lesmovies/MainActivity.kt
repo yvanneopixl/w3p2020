@@ -21,7 +21,7 @@ class MainActivity : AppCompatActivity() {
         val layoutManager = LinearLayoutManager(this)
         moviesRecyclerView.layoutManager = layoutManager
 
-        val movies = ModelGenerator().allMovies + ModelGenerator().allMovies
+        val movies = ModelGenerator().allMovies
 
         val itemAdapter = ItemAdapter<MovieItem>()
         itemAdapter.add(movies.map { MovieItem((it)) })
